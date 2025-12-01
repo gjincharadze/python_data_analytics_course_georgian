@@ -64,10 +64,11 @@
 1. **არაფერი არ უნდა დააყენოთ!** ყველაფერი მუშაობს ბრაუზერში
 2. დააჭირეთ "Open in Colab" ღილაკს ნებისმიერ ლექციაზე
 3. დააჭირეთ `Runtime` → `Run all` ან გაუშვით კოდი ცელ-ცელკე
-<img width="317" height="113" alt="image" src="https://github.com/user-attachments/assets/1291350b-f63f-4baa-a0fb-e99dc21fa826" />
+<img width="317" height="113" alt="runtime" src="https://github.com/user-attachments/assets/2c16affd-d07b-442a-b3d7-9f7a7bae93f1" />
+
 
 4. დაელოდეთ როდის დაუკავშირდება `runtime-ს` წარმატებით
-<img width="181" height="74" alt="image" src="https://github.com/user-attachments/assets/d27b6ada-6eef-4cc1-976d-2793182c3ab0" />
+<img width="181" height="74" alt="connect" src="https://github.com/user-attachments/assets/890516e6-b49d-45a5-823e-7bfb7febfb48" />
 
 ## 📖 პრერეკვიზიტები
 
